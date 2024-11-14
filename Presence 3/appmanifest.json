@@ -1,9 +1,9 @@
 {
-	"name": "PR1",
-	"short_name": "PR1",
+	"name": "Presence",
+	"short_name": "Presence",
 	"description": "",
 	"start_url": "index.html",
-	"display": "fullscreen",
+	"display": "standalone",
 	"orientation": "landscape",
 	"background_color": "#ffffff",
 	"icons": [
