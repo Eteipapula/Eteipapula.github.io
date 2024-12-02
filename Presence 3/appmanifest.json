@@ -1,11 +1,11 @@
 {
-	"name": "Presence",
-	"short_name": "Presence",
+	"name": "Atomiser",
+	"short_name": "Atomiser",
 	"description": "",
 	"start_url": "index.html",
 	"display": "fullscreen",
-	"orientation": "portrait",
-	"background_color": "#ffffff",
+	"orientation": "landscape",
+	"background_color": "#000000",
 	"icons": [
 		{
 			"src": "icons/Icône-16.png",
