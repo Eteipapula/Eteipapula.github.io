@@ -1334,7 +1334,22 @@ function or(l, r)
 }
 
 self.C3_ExpressionFuncs = [
-
+		() => -1,
+		p => {
+			const f0 = p._GetNode(0).GetBoundMethod();
+			return () => f0("UI");
+		},
+		p => {
+			const f0 = p._GetNode(0).GetBoundMethod();
+			return () => f0();
+		},
+		p => {
+			const f0 = p._GetNode(0).GetBoundMethod();
+			const f1 = p._GetNode(1).GetBoundMethod();
+			const v2 = p._GetNode(2).GetVar();
+			const f3 = p._GetNode(3).GetBoundMethod();
+			return () => (f0() - ((f1("UI") - v2.GetValue()) / f3("Main")));
+		}
 ];
 
 
