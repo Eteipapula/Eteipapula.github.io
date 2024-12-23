@@ -5,38 +5,39 @@
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "landscape",
-	"background_color": "#000000",
+	"background_color": "#4150b1",
 	"icons": [
 		{
 			"src": "icons/Icône-16.png",
-			"sizes": "16x16",
+			"sizes": "11x16",
 			"type": "image/png"
 		},
 		{
 			"src": "icons/Icône-32.png",
-			"sizes": "32x32",
+			"sizes": "22x32",
 			"type": "image/png"
 		},
 		{
 			"src": "icons/Icône-64.png",
-			"sizes": "64x64",
+			"sizes": "45x64",
 			"type": "image/png"
 		},
 		{
 			"src": "icons/Icône-128.png",
-			"sizes": "128x128",
+			"sizes": "90x128",
 			"type": "image/png"
 		},
 		{
 			"src": "icons/Icône-256.png",
-			"sizes": "256x256",
+			"sizes": "180x256",
 			"type": "image/png"
 		},
 		{
 			"src": "icons/Icône-512.png",
-			"sizes": "512x512",
+			"sizes": "360x512",
 			"type": "image/png"
 		}
 	],
-	"screenshots": []
+	"screenshots": [],
+	"theme_color": "#4150b1"
 }
