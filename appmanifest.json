@@ -9,32 +9,32 @@
 	"icons": [
 		{
 			"src": "icons/Icône-16.png",
-			"sizes": "16x16",
+			"sizes": "13x18",
 			"type": "image/png"
 		},
 		{
 			"src": "icons/Icône-32.png",
-			"sizes": "32x32",
+			"sizes": "24x34",
 			"type": "image/png"
 		},
 		{
 			"src": "icons/Icône-64.png",
-			"sizes": "64x64",
+			"sizes": "47x66",
 			"type": "image/png"
 		},
 		{
 			"src": "icons/Icône-128.png",
-			"sizes": "128x128",
+			"sizes": "92x130",
 			"type": "image/png"
 		},
 		{
 			"src": "icons/Icône-256.png",
-			"sizes": "256x256",
+			"sizes": "182x258",
 			"type": "image/png"
 		},
 		{
 			"src": "icons/Icône-512.png",
-			"sizes": "512x512",
+			"sizes": "362x514",
 			"type": "image/png"
 		}
 	],
